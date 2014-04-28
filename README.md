@@ -23,4 +23,14 @@ example if you have a tag ``it`` and a tag ``italian``, clicking on the tag
 you and I'll try to work around this.
 
 
+## Support
+
+The add-on was written by [Patrice Neff][]. I try to monitor threads in the
+[Anki Support forum][]. To be safe you may also want to open a ticket on the
+plugin's [GitHub issues][] page.
+
+
 [Anki]: http://ankisrs.net/
+[Patrice Neff]: http://patrice.ch/
+[Anki support forum]: https://anki.tenderapp.com/discussions/add-ons
+[GitHub issues]: https://github.com/pneff/anki-hierarchical-tags/issues
